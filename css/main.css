@@ -1,0 +1,25 @@
+.navbar-nav li .nav-link.my-active{
+    color: #c8db0c !important;
+  }
+.owl-dot, .owl-prev , .owl-next{
+		background-color: transparent;
+		border-color: transparent;
+	}
+	button:focus{
+		outline: none;
+	}
+	.mts .owl-nav .owl-prev{
+		padding-right: 100px;
+	}
+	.owl-theme .owl-nav [class*=owl-], .owl-theme .owl-nav [class*=owl-]:hover{
+		background-color: transparent;
+		color: #f9a83f;
+	}
+
+.cursor{
+cursor:pointer;
+
+}
+.ach{
+	min-height: 100%;
+}
